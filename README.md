@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Emmanuel%20Habumugisha&fontSize=40&fontColor=00BBFF&animation=fadeIn)
+
 # Hi there, I'm Emmanuel Habumugisha 👋
 
 I'm a **Software Engineer & Cybersecurity Researcher** focused on building intelligent web systems, secure platforms, and cross-platform mobile applications. Founder of **Vigilance Ltd**.
@@ -44,6 +46,15 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmaTheDev01&show_icons=true&theme=dark&hide_border=true" alt="EmmaTheDev01's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaTheDev01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00BBFF&animation=fadeIn)
+
+<p align="center">
+  <i>"Building secure, intelligent systems for tomorrow."</i><br>
+  © 2026 Emmanuel Habumugisha • <a href="https://vigilance.rw">Vigilance Ltd</a>
 </p>
 
 <p align="center">
