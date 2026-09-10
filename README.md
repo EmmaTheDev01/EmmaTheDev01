@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Emmanuel%20Habumugisha&fontSize=40&fontColor=00BBFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Emmanuel%20Habumugisha&fontSize=42&fontColor=00BBFF&animation=fadeIn&subText=Software%20Engineer%20%7C%20Cybersecurity%20Researcher&subFontSize=18)
 
 # Hi there, I'm Emmanuel Habumugisha 👋
 
@@ -17,6 +17,7 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000002?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend, Cloud & Databases**  
@@ -41,44 +42,25 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Technical Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmaTheDev01&show_icons=true&theme=dark&hide_border=true" alt="EmmaTheDev01's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaTheDev01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+```typescript
+interface SecurityEngineer {
+  name: string;
+  role: string;
+  coreStack: string[];
+  securityDomain: string[];
+  currentMission: () => void;
+}
 
----
+const developer: SecurityEngineer = {
+  name: "Emmanuel Habumugisha",
+  role: "Founder & Lead Engineer @ Vigilance Ltd",
+  coreStack: ["TypeScript", "React Native", "Next.js", "Supabase", "GCP"],
+  securityDomain: ["Pentesting", "SOC Operations", "Threat Analysis", "AI Safety"],
+  currentMission: () => {
+    console.log("Architecting secure AI agents and scalable cross-platform software.");
+  }
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00BBFF&animation=fadeIn)
-
-<p align="center">
-  <i>"Building secure, intelligent systems for tomorrow."</i><br>
-  © 2026 Emmanuel Habumugisha • <a href="https://vigilance.rw">Vigilance Ltd</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaTheDev01&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanhabumugisha/)
-[![Website](https://img.shields.io/badge/Vigilance.rw-000000?style=for-the-badge&logo=globe&logoColor=white)](https://vigilance.rw)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-for-the-badge&logo=gmail&logoColor=white)](mailto:emman@vigilance.rw)
+developer.currentMission();
