@@ -50,6 +50,20 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00BBFF&animation=fadeIn)
 
 <p align="center">
