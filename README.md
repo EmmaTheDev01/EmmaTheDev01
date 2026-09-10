@@ -5,8 +5,8 @@
 
 ### 📊 GitHub Stats
 
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaTheDev01&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaTheDe01&layout=compact&theme=radial)
 
 **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,9 +56,8 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 
 ---
 
-### 📫 Connect With Me
 
-### 📫 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanhabumugisha/)
 [![Website](https://img.shields.io/badge/Vigilance.rw-000000?style=for-the-badge&logo=globe&logoColor=white)](https://vigilance.rw)
