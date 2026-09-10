@@ -1,5 +1,3 @@
-https://camo.githubusercontent.com/6659b8bdad938d23953e822cdbc5fabdc10c2d986b9a034b6c70d2206a9bd174/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f26666f6e7453697a653d353026666f6e74436f6c6f723d30304242464626616e696d6174696f6e3d66616465496e26747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d686561646572
-
 # Hi there, I'm Emmanuel Habumugisha 👋
 
 I'm a **Software Engineer & Cybersecurity Researcher** focused on building intelligent web systems, secure platforms, and cross-platform mobile applications. Founder of **Vigilance Ltd**.
