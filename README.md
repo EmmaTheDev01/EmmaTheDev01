@@ -1,6 +1,13 @@
 
 ### 💻 Tech Stack & Tools
 
+---
+
+### 📊 GitHub Stats
+
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+
 **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,6 +57,12 @@ I'm a **Software Engineer & Cybersecurity Researcher** focused on building intel
 ---
 
 ### 📫 Connect With Me
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanhabumugisha/)
+[![Website](https://img.shields.io/badge/Vigilance.rw-000000?style=for-the-badge&logo=globe&logoColor=white)](https://vigilance.rw)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emman@vigilance.rw)
 
 * **Website:** [vigilance.rw](https://vigilance.rw)
 * **LinkedIn:** [linkedin.com/in/emmanhabumugisha](https://www.linkedin.com/in/emmanhabumugisha/)
